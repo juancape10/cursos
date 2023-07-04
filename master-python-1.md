@@ -1,6 +1,6 @@
 # Temario de la primera parte - Máster en Python
 
-Vídeo con todo explicado: https://youtu.be/M7qr5Tib9gw
+**Vídeo con todo explicado: https://youtu.be/M7qr5Tib9gw**
 
 ## Capítulo 1 - Variables, salida y entrada de datos
 
@@ -382,7 +382,6 @@ https://programacionfacil.org/blog/soluciones-de-ejercicios-de-python-y-tkinter-
 1. Ver los valores de los Radiobutton en la variable de control
 1. Función para actualizar el valor de la variable de control
 1. Establecer valores por defecto en los Radiobutton
-
 
 ### Teoría
 https://programacionfacil.org/blog/los-radiobutton-y-las-variables-de-control-de-tkinter/
