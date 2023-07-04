@@ -339,4 +339,58 @@ https://programacionfacil.org/blog/ejercicios-de-python-y-tkinter-creacion-de-un
 ### Soluciones
 https://programacionfacil.org/blog/soluciones-de-ejercicios-de-python-y-tkinter/
 
+## Capítulo 15 - Iniciación a los estilos de Tkinter y los marcos
+
+1. Iniciación a los estilos de Tkinter y los marcos -100 días de Python #15
+1. Lista de colores de Tkinter
+1. Los atributos o argumentos de los widgets
+1. Argumentos de clave para los widgets
+1. Personalizar el widget Entry()
+1. Color de fondo – Widget Entry()
+1. Tamaño de borde – Widget Entry()
+1. Color de fuente – Widget Entry()
+1. Ancho – Widget Entry()
+1. Personalizar el widget Button()
+1. Personalizar el widget Label()
+1. ¿Qué son los frames de Tkinter?
+1. Crear un LabelFrame() en Tkinter
+1. Añadir márgenes a los elementos de Tkinter
+1. Múltiples marcos y marcos ocultos
+1. Posicionar marcos en el grid
+
+### Teoría
+https://programacionfacil.org/blog/iniciacion-a-los-estilos-de-tkinter-y-los-marcos/
+
+### Ejercicios
+https://programacionfacil.org/blog/ejercicios-de-python-y-tkinter/
+
+### Soluciones
+https://programacionfacil.org/blog/soluciones-de-ejercicios-de-python-y-tkinter-2/
+
+## Capítulo 16 - Los Radiobutton y las variables de control de Tkinter
+
+1. ¿Qué es un Radiobutton de Tkinter?
+1. Crear un Radiobutton en Tkinter
+1. Las variables de control de Tkinter
+1. ¿Por qué necesitamos una variable de control con los Radiobutton()?
+1. Tipos de variables de control
+1. Código interno de las variables de control
+1. Class StringVar de Tkinter
+1. Class IntVar de Tkinter
+1. Class DoubleVar
+1. Class BooleanVar
+1. Ver los valores de los Radiobutton en la variable de control
+1. Función para actualizar el valor de la variable de control
+1. Establecer valores por defecto en los Radiobutton
+
+
+### Teoría
+https://programacionfacil.org/blog/los-radiobutton-y-las-variables-de-control-de-tkinter/
+
+### Proyecto
+https://programacionfacil.org/blog/ejercicios-de-python-y-tkinter-2/
+
+### Soluciones
+https://programacionfacil.org/blog/soluciones-de-ejercicios-de-python-y-tkinter-3/
+
 **El curso no termina aquí. Quedan muchas más partes. Las iré subiendo.**
