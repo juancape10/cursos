@@ -24,7 +24,7 @@ https://programacionfacil.org/blog/proyecto-y-ejercicios-100-dias-de-python-1/
 ### Soluciones
 https://programacionfacil.org/blog/soluciones-de-ejercicios-100-dias-de-python-1/
 
-## Capítulo 2 - Variables, salida y entrada de datos
+## Capítulo 2 - Tipos de datos, conversiones, operadores y más
 1. Tipos de datos básicos
 1. Strings
 1. La función len()
