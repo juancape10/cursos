@@ -289,6 +289,54 @@ https://programacionfacil.org/blog/ejercicios-de-programacion-de-eventos-con-tki
 ### Soluciones
 https://programacionfacil.org/blog/soluciones-de-ejercicios-con-eventos-de-tkinter-100-dias-de-python-12/
 
+## Capítulo 13 - Strings avanzados
 
+1. 100 días de Python #13
+1. Concatenar strings con el operador +
+1. Concatenación pegada
+1. Concatenación con espacios
+1. Errores utilizando el operador + para concatenar
+1. Concatenar strings con el operador coma (,)
+1. Concatenar con el método join() de Python
+1. Formateo de strings con el operador % en Python
+1. Formateo de strings con el método format() de Python
+1. Formateo de strings con el prefijo f en Python
+1. Dividir un string en varias líneas
+1. Strings preformateados en Python
+1. Multiplicar strings en Python
+1. Iteración de strings
+1. Comprobar si un string está en otro string
+1. Generar un diccionario con las posiciones y caracteres de un string
+1. Comillas dobles, simples y triples en Python
 
+### Teoría
+https://programacionfacil.org/blog/uso-avanzado-de-strings-en-python/
 
+### Ejercicios
+https://programacionfacil.org/blog/ejercicios-de-python-con-strings/
+
+### Soluciones
+https://programacionfacil.org/blog/soluciones-de-ejercicios-con-strings-de-python/
+
+## Capítulo 14 - El manejo de imágenes con Tkinter
+
+1. Manejo de imágenes y rutas con Tkinter -100 días de Python #14
+1. Cambiar el icono de la ventana de Tkinter
+1. Importar directorios
+1. Módulo para imágenes
+1. Instalar Pillow en Python
+1. Actualizar PIP
+1. Mostrar una imagen en Tkinter
+1. Redimensionar imagen
+1. Redondear bordes de la imagen
+
+### Teoría
+https://programacionfacil.org/blog/manejo-de-imagenes-y-rutas-con-python-y-tkinter/
+
+### Ejercicios
+https://programacionfacil.org/blog/ejercicios-de-python-y-tkinter-creacion-de-un-login/
+
+### Soluciones
+https://programacionfacil.org/blog/soluciones-de-ejercicios-de-python-y-tkinter/
+
+**El curso no termina aquí. Quedan muchas más partes. Las iré subiendo.**
